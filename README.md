@@ -51,37 +51,17 @@ src/main/java/com/campusconnect
 │
 └── CampusConnectApplication.java
 
-## API Endpoints
+<img width="1475" height="347" alt="image" src="https://github.com/user-attachments/assets/41e19146-1524-4af6-86a9-9d1c8bc57e19" />
 
-### Student APIs
 
-| Method | Endpoint | Description |
-|--------|----------|-------------|
-| POST | /api/students | Add student |
-| GET | /api/students | Get all students |
-| GET | /api/students/{id} | Get student by ID |
-| PUT | /api/students/{id} | Update student |
-| DELETE | /api/students/{id} | Delete student |
+<img width="1447" height="347" alt="image" src="https://github.com/user-attachments/assets/e6c319d3-251e-4817-b580-0f48e21b816b" />
 
-### Job APIs
+<img width="1443" height="331" alt="image" src="https://github.com/user-attachments/assets/19890e8c-4079-4c5d-bec3-1683465562e8" />
 
-| Method | Endpoint | Description |
-|--------|----------|-------------|
-| POST | /api/jobs | Add job |
-| GET | /api/jobs | Get all jobs |
-| GET | /api/jobs/{id} | Get job by ID |
-| PUT | /api/jobs/{id} | Update job |
-| DELETE | /api/jobs/{id} | Delete job |
 
-### Job Application APIs
 
-| Method | Endpoint | Description |
-|--------|----------|-------------|
-| POST | /api/applications | Apply for a job |
-| GET | /api/applications | Get all applications |
-| GET | /api/applications/{id} | Get application by ID |
-| PUT | /api/applications/{id} | Update application |
-| DELETE | /api/applications/{id} | Delete application |
+
+
 
 ## Database Configuration
 
